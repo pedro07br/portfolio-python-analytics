@@ -29,5 +29,4 @@ Este repositório contém uma série de exercícios práticos em Python voltados
 
 1. Clone este repositório:  
 ```bash
-git clone [https://github.com/pedro07br/portfolio-python-analytics
-.git](https://github.com/pedro07br/portfolio-python-analytics)
+git clone(https://github.com/pedro07br/portfolio-python-analytics)
